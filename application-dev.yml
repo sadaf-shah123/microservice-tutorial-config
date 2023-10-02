@@ -10,3 +10,4 @@ eureka:
     preferIpAddress: true
     fetch-registry: true
     registerWithEureka: true
+   
